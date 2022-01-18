@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_DefaultGroup: 98f244c1cbde59c4b8e2e85ebbaab1a9
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
@@ -30,14 +30,15 @@ MonoBehaviour:
   m_MonoScriptBundleNaming: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: 150ce8f2db72bb549a1330cfbb93df8c
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 5dce5f0b1d4cfa74e9f0e6d76f909897
   m_ContentStateBuildPath: 
   m_overridePlayerVersion: 
   m_GroupAssets:
   - {fileID: 11400000, guid: 2565cbb061e9e4142ae1360fd0ef9d72, type: 2}
   - {fileID: 11400000, guid: ce8f258c5b696ba4da776af3d33b8b7f, type: 2}
+  - {fileID: 11400000, guid: aeb678d998b8fb946a09390e46c63850, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -58,7 +59,7 @@ MonoBehaviour:
       - m_Id: 150ce8f2db72bb549a1330cfbb93df8c
         m_Value: ServerData/[BuildTarget]
       - m_Id: 5dce5f0b1d4cfa74e9f0e6d76f909897
-        m_Value: http://localhost/[BuildTarget]
+        m_Value: https://addressables-testing-version-two.ams3.digitaloceanspaces.com//[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 959791b75c297da48b9ab5c950902416
       m_Name: BuildTarget

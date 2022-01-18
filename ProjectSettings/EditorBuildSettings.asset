@@ -4,6 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/New/2Playground Remote.unity
+    guid: 02578e253a608ad459e11b1ebbc1f945
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: de9b5633a02744d42b1f752a88028f41, type: 2}
